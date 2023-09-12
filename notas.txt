@@ -1,0 +1,6 @@
+->Definicao de Arvore: Trata-se de qualquer grafo G que seja aciclico e conexo
+Teoremas:
+1-)Se o grafo eh uma arvore, entao o numero de arestas eh igual ao numero de vertices menos 1( m = n - 1 )
+(A volta nao necessariamente eh verdade, precisa garantir que o grafo tb eh conexo)
+2-)Se G for um grafo conexo com m=n-1, entao G eh uma arvore.
+3-)Um grafo eh uma arvore, se e somente se, existir um unico caminho entre cada par de vertices de G

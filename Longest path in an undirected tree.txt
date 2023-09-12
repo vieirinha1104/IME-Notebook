@@ -1,0 +1,5 @@
+Essa questao nao esta perguntando qual eh altura da arvore, dado uma raiz, ela esta perguntando qual a maior distancia entre dois nos quaisquer, dado q a arvore eh direcionada, ou seja, CALCULAR O DIAMETRO DA ARVORE!
+1-)Percorrer a arvore uma vez a partir de um no qualquer(digamos o no 1) para achar no U cuja a distancia de V1 seja max.Ao achar esse no U, ele necessariamente sera um extremo da arvore, pois caso nao fosse voce poderia percorrer mais a arvore(prova por contradicao)
+2-)Dado esse no U, basta fazer um segundo dfs nele para achar a a excentricidade dele, que coincidira com o diametro
+Ver:
+https://noic.com.br/materiais-informatica/ideias/ideia-03/
